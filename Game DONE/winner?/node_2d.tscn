@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://dpmorpobqvw5h"]
+
+[node name="Node2D" type="Node2D" unique_id=1424470675]
+
+[node name="Control" type="Control" parent="." unique_id=1090543633]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 260.0
+offset_bottom = 58.0
+
+[node name="Label" type="Label" parent="Control" unique_id=74629249]
+layout_mode = 0
+offset_left = 416.0
+offset_top = 122.0
+offset_right = 609.0
+offset_bottom = 227.0
+text = "YOU WON"
